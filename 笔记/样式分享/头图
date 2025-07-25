@@ -1,0 +1,23 @@
+
+```
+<div class="logo">
+<img src="图片地址" class="responsive-image"/>
+</div>
+```
+
+```
+div {
+  margin: 0; 
+}
+.logo {
+  text-align: center; 
+  text-indent: 0;   
+  duokan-text-indent: 0;  
+  duokan-bleed: lefttopright; 
+}
+
+.logo .responsive-image {
+  width: 100%;
+
+}
+```
